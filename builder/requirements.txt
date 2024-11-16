@@ -1,0 +1,7 @@
+runpod~=1.7.0
+torch
+accelerate
+bitsandbytes
+protobuf
+sentencepiece
+transformers

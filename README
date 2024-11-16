@@ -1,0 +1,7 @@
+Input data format expected by handler:
+
+{
+    "input": {
+        "audio": <base64 encoded MP3 file>
+    }
+}
